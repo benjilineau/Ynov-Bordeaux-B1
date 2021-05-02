@@ -81,6 +81,7 @@ Maintenant nous allons créer un VPN afin d'avoir accès au partage à partir du
 - Dans les propriétés du serveur, dans sécurité entrer votre clé prépartagée et appliquer. Puis dans IPv4 activé le routage IPv4 et entrer une nouvelle plage d'adresse IPv4
 
 - Modifier les services "**Sécurité IP(IKE)**";"**Sécurité IP(IKE NAT Traversal)**"; "**Passerelle VPN(L2TP)**"; "**Passerelle VPN(PPTP)**" en mettant pour tous en adresse privée 127.0.0.1.
+
 ![](https://i.imgur.com/FVsPUhe.png)
 
 - Pour se connecter au vpn il faut ensuite aller dans les paramètres windows puis ajouter une connexion vpn.
